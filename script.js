@@ -96,3 +96,22 @@ function scrollToCart() {
     behavior: "smooth"
   });
 }
+Add Food
+   ↓
+Cart
+   ↓
+Place Order
+   ↓
+Payment Method
+   ↓
+┌─────────────────────┐
+│  💳 UPI Payment     │
+│                     │
+│      QR CODE        │
+│                     │
+│  UPI / GPay Demo    │
+│                     │
+│ [Payment Done]      │
+└─────────────────────┘
+   ↓
+Order Confirmed ✅
