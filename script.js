@@ -95,3 +95,4 @@ function scrollToCart() {
   document.getElementById("cart").scrollIntoView({
     behavior: "smooth"
   });
+}
